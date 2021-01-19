@@ -1,6 +1,6 @@
 export type Catalog = {
     movies:Movies
-    genres: Genres
+    genres:Genres
     people:People
 }
 
